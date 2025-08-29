@@ -29,13 +29,4 @@ Techniques: Natural Language Processing (NLP), Feature Extraction (TF-IDF), Clas
 
 Development Environment: Jupyter Notebook
 
-📂 Project Structure
-bash
-Copy
-Edit
-Spam_Mail_Prediction/
-├── Spam_Mail_Prediction.ipynb     # Main notebook with code and analysis
-├── README.md                      # Project description
-├── data/                          # Email dataset (if included)
-📈 Model Performance
 Accuracy: 96%
